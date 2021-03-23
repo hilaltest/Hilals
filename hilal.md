@@ -1,6 +1,3 @@
-
-https://raw.githubusercontent.com/hilaltest/Hilals/main/1/Hilal-01.jpg
-
 ![](https://raw.githubusercontent.com/hilaltest/Hilals/main/1/Hilal-01.jpg)
 ![](https://raw.githubusercontent.com/hilaltest/Hilals/main/1/Hilal-02.jpg)
 ![](https://raw.githubusercontent.com/hilaltest/Hilals/main/1/image001.jpg)
